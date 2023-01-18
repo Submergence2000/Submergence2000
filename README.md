@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jerry(Junrui) Wang
-- 👀 I’m interested in cloud service, algorithm, video games and rock music
+- 👀 I’m interested in cloud service, algorithm, video games and rock&roll music
 - 🌱 I’m currently learning data science at UBC, Vancouver
 - 📫 How to reach me wang.junrui@outlook.com / i@junruiw.com
 
